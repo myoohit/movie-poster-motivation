@@ -1,0 +1,41 @@
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  color: red;
+}
+
+
+image{
+  size: 30px;
+  border:5px solid white
+  }
+
+ div{
+  background-color: black;
+  text-align: center;
+  
+  width: 60%;
+
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 100px;
+  font-family:Libre-Baskerville ;
+  background-color: rgba(0, 0, 0, 0.8); /* White background with 80% opacity */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+ p{
+    color: red;
+}
+body {
+    background: url(./iron-man-wallpaper-preview.jpg) no-repeat center center fixed; /* Image background */
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
